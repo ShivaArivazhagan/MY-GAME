@@ -1,0 +1,16 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-auto-rows: minmax(3.7em, auto);
+  }
+.box{
+    background-color: rgba(142, 216, 233, 0.949);
+    border:1px solid rgba(221, 228, 171, 0.835);
+}
+.col-lg-6 p{
+    font-size: 10px;
+}
+.col-lg-6 span{
+    font-size: 10px;
+}
+

@@ -1,0 +1,17 @@
+.col-lg-3{
+    background-color: aqua;
+    text-align: center;
+}
+.col-lg-3 .dice button{
+    width: 150px;
+    border: 2px solid rgb(182, 211, 232);
+    background-color: rgb(110, 192, 236);
+    border-radius: 30px;
+    margin-top: 40px;
+}
+.col-lg-3 .dice h5{
+    margin-top: 20px;
+}
+.col-lg-3 h6{
+    margin-top: 20px;
+}
